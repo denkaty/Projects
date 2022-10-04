@@ -1,0 +1,15 @@
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\bin\Debug\net6.0\03. RobotName.exe
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\bin\Debug\net6.0\03. RobotName.deps.json
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\bin\Debug\net6.0\03. RobotName.runtimeconfig.json
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\bin\Debug\net6.0\03. RobotName.dll
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\bin\Debug\net6.0\03. RobotName.pdb
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\03. RobotName.csproj.AssemblyReference.cache
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\03. RobotName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\03. RobotName.AssemblyInfoInputs.cache
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\03. RobotName.AssemblyInfo.cs
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\03. RobotName.csproj.CoreCompileInputs.cache
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\03. RobotName.dll
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\refint\03. RobotName.dll
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\03. RobotName.pdb
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\03. RobotName.genruntimeconfig.cache
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\03. RobotName\obj\Debug\net6.0\ref\03. RobotName.dll
