@@ -1,0 +1,15 @@
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\bin\Debug\net6.0\01. NeedForSpeed.exe
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\bin\Debug\net6.0\01. NeedForSpeed.deps.json
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\bin\Debug\net6.0\01. NeedForSpeed.runtimeconfig.json
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\bin\Debug\net6.0\01. NeedForSpeed.dll
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\bin\Debug\net6.0\01. NeedForSpeed.pdb
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\01. NeedForSpeed.csproj.AssemblyReference.cache
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\01. NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\01. NeedForSpeed.AssemblyInfoInputs.cache
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\01. NeedForSpeed.AssemblyInfo.cs
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\01. NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\01. NeedForSpeed.dll
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\refint\01. NeedForSpeed.dll
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\01. NeedForSpeed.pdb
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\01. NeedForSpeed.genruntimeconfig.cache
+D:\Университет\Първи курс\Първи семестър\Увод в програмирането\Увод в програмирането - упражнение\02. Lecture\02. SpaceAge\01. NeedForSpeed\obj\Debug\net6.0\ref\01. NeedForSpeed.dll
